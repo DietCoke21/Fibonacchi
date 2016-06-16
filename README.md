@@ -1,2 +1,19 @@
 # Fibonacchi
+
 Fibonacchi Code
+
+print()
+
+while c < 20:
+
+   print(f,end="")
+   
+   f=a+b
+   
+   a=b
+   
+   b=f
+   
+   c=c+1#counter
+   
+print()
